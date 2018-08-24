@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4df0c1cb-b7e9-49c5-ba8e-28a8b7bc8b3d" name="krasi" url="http://ftp.hram-slivnitsa.org">
+        <fileTransfer host="ftp.hram-slivnitsa.org" port="21" rootFolder="/public_html/skarabajganjo-bg.com">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,12 @@
+
+Require all granted
+RewriteEngine Off
+
+
+<FilesMatch "\.(txt)$">
+	Require all granted
+</FilesMatch>
+
+<FilesMatch "\.(txt)$">
+	Allow from all
+</FilesMatch>
